@@ -48,11 +48,11 @@ http://23.237.202.102:7283/HY-1371/index.m3u8?un=celso8gic&tm=1618278912&sn=UOQQ
 
 
 #EXTINF:-1 tvg-ID="3-23" tvg-name="ABC TV PY HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/abc py.png" group-title="Paraguay",ABC TV PY HD
-http://23.237.202.102:7283/ABC-TV-PY-HD/index.m3u8?un=celso8gic&tm=1618278912&sn=BMelzSWijTEdtGR3rZwMDDO4PDp
+http://23.237.202.102:7283/ABC-TV-PY-HD/index.m3u8
 #EXTINF:-1 tvg-ID="3-24" tvg-name="C9N HD PY" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/C9N-HD-PY.jpeg" group-title="Paraguay",C9N HD PY
-http://23.237.202.102:7283/C9N-HD-PY/index.m3u8?un=celso8gic&tm=1618278912&sn=KLkhgW4aX31SMzMqZPI04LoDWFv
+http://23.237.202.102:7283/C9N-HD-PY/index.m3u8
 #EXTINF:-1 tvg-ID="3-25" tvg-name="EVENTOS PY1" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/EVENTOS+PY1.png" group-title="Paraguay",EVENTOS PY1
-http://23.237.202.102:7283/TIGO-SPORT-1-HD/index.m3u8?un=celso8gic&tm=1618278912&sn=F0eybprdKBgDKSrjQR9kPiLdqiF
+http://23.237.202.102:7283/TIGO-SPORT-1-HD/index.m3u8
 #EXTINF:-1 tvg-ID="3-26" tvg-name="EVENTOS PY2" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/EVENTOS+PY1.png" group-title="Paraguay",EVENTOS PY2
 http://23.237.202.102:7283/TIGO-SPORT-PLUS-PY-HD/index.m3u8?un=celso8gic&tm=1618278912&sn=Hs3aG933JhHq8r83Par80hFs44
 #EXTINF:-1 tvg-ID="3-27" tvg-name="Farra Play" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/Farra-Play.jpeg" group-title="Paraguay",Farra Play
@@ -84,11 +84,11 @@ http://23.237.202.102:7283/HY-710/index.m3u8?un=celso8gic&tm=1618278912&sn=4hq6V
 #EXTINF:-1 tvg-ID="4-39" tvg-name="ESPN 2 HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/ESPN_2.png" group-title="HD+(265)",ESPN 2 HD+
 http://23.237.202.102:7283/HY-726/index.m3u8?un=celso8gic&tm=1618278912&sn=OYLtq9RbkvBjqUlQXz5KsXPPZ0
 #EXTINF:-1 tvg-ID="4-40" tvg-name="ESPN 3 Central HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/ESPN_3_HD_-_HD_CENTRAL_-_HD_%2B.png" group-title="HD+(265)",ESPN 3 Central HD+
-http://23.237.202.102:7283/HY-729B/index.m3u8?un=celso8gic&tm=1618278912&sn=AZknCKmCKnSXaFj1mNwyarleBCH
+http://23.237.202.102:7283/HY-729B/index.m3u8
 #EXTINF:-1 tvg-ID="4-41" tvg-name="ESPN 3 HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/ESPN_3_HD_-_HD_CENTRAL_-_HD_%2B.png" group-title="HD+(265)",ESPN 3 HD+
 http://23.237.202.102:7283/HY-728/index.m3u8?un=celso8gic&tm=1618278912&sn=a7LwDWujxU4ecgszFgn9d5cOIPj
 #EXTINF:-1 tvg-ID="4-42" tvg-name="ESPN HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/ESPN_%2B.png" group-title="HD+(265)",ESPN HD+
-http://23.237.202.102:7283/HY-733/index.m3u8?un=celso8gic&tm=1618278912&sn=N5OQEtW5b23JjraIzuOfIAfXc0w
+http://23.237.202.102:7283/HY-733/index.m3u8
 #EXTINF:-1 tvg-ID="4-43" tvg-name="Fox Sports 2 HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/Fox_Sports_2_HD_-_HD%2B_-_CENTRAL.png" group-title="HD+(265)",Fox Sports 2 HD+
 http://23.237.202.102:7283/HY-756/index.m3u8?un=celso8gic&tm=1618278912&sn=WE0UdjzIy5qgFS8MVPjcC8ozMod
 #EXTINF:-1 tvg-ID="4-44" tvg-name="Fox Sports HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/FOX_SPORTS.png" group-title="HD+(265)",Fox Sports HD+
@@ -96,7 +96,7 @@ http://23.237.202.102:7283/HY-762/index.m3u8?un=celso8gic&tm=1618278912&sn=WQeou
 #EXTINF:-1 tvg-ID="4-45" tvg-name="Fox Sports Premium Arg HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/FOX_SPORTS.png" group-title="HD+(265)",Fox Sports Premium Arg HD+
 http://23.237.202.102:7283/HY-765/index.m3u8?un=celso8gic&tm=1618278912&sn=OS5UJQw1OUFMu4ymAVuaPahlG24
 #EXTINF:-1 tvg-ID="4-46" tvg-name="HBO HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/HBO_HD.png" group-title="HD+(265)",HBO HD+
-http://23.237.202.102:7283/HY-784/index.m3u8?un=celso8gic&tm=1618278912&sn=SdsEPDdFqFyVIcIwaol2lf4rrnh
+http://23.237.202.102:7283/HY-784/index.m3u8
 #EXTINF:-1 tvg-ID="4-47" tvg-name="History HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/HISTORY_HD.png" group-title="HD+(265)",History HD+
 http://23.237.202.102:7283/HY-788/index.m3u8?un=celso8gic&tm=1618278912&sn=QhCLGUWJmsJx5HhQp6GWG6Oz38C
 #EXTINF:-1 tvg-ID="4-48" tvg-name="Nat Geo HD+" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/NAT_GEOGRAPHIC.png" group-title="HD+(265)",Nat Geo HD+
