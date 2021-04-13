@@ -1,0 +1,47 @@
+#EXTM3U abdieltv.m3u
+#EXTINF:-1 tvg-ID="1-1" tvg-name="3ABN LATINO HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/3ABN-LATINO-HD.jpeg" group-title="Religioso",3ABN LATINO HD
+http://23.237.202.102:7283/3ABN-LATINO-HD/index.m3u8
+#EXTINF:-1 tvg-ID="1-2" tvg-name="ALIENTO VISION HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/ALIENTO-VISION-HD.jpeg" group-title="Religioso",ALIENTO VISION HD
+http://23.237.202.102:7283/ALIENTO-VISION-HD/index.m3u8
+#EXTINF:-1 tvg-ID="1-3" tvg-name="ENLACE HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/ENLACE-HD.jpeg" group-title="Religioso",ENLACE HD
+http://23.237.202.102:7283/ENLACE-HD/index.m3u8
+#EXTINF:-1 tvg-ID="1-4" tvg-name="EWTN HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/EWTN-HD.jpeg" group-title="Religioso",EWTN HD
+http://23.237.202.102:7283/EWTN-HD/index.m3u8
+#EXTINF:-1 tvg-ID="1-5" tvg-name="JRES TV HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/JRES-TV-HD.jpeg" group-title="Religioso",JRES TV HD
+http://23.237.202.102:7283/JRES-TV-HD/index.m3u8
+#EXTINF:-1 tvg-ID="1-6" tvg-name="LA VOZ DE MARIA HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/LA-VOZ-DE-MARIA-HD.jpeg" group-title="Religioso",LA VOZ DE MARIA HD
+http://23.237.202.102:7283/LA-VOZ-DE-MARIA-HD/index.m3u8
+#EXTINF:-1 tvg-ID="1-7" tvg-name="MISION VIDA TV HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/MISION-VIDA-TV-HD.jpeg" group-title="Religioso",MISION VIDA TV HD
+http://23.237.202.102:7283/MISION-VIDA-TV-HD/index.m3u8
+#EXTINF:-1 tvg-ID="1-8" tvg-name="MOVIES  CRISTIANAS HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/MOVIES++CRISTIANAS+HD+.jpeg" group-title="Religioso",MOVIES  CRISTIANAS HD
+http://23.237.202.102:7283/MOVIES-CRISTIANAS-HD/index.m3u8
+#EXTINF:-1 tvg-ID="1-9" tvg-name="TELEBENDICION HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/TELEBENDICION-HD.jpeg" group-title="Religioso",TELEBENDICION HD
+http://23.237.202.102:7283/TELEBENDICION-HD/index.m3u8
+
+
+#EXTINF:-1 tvg-ID="2-10" tvg-name="ATB" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/ATB.png" group-title="Bolivia",ATB
+http://23.237.202.102:7283/HY-1359/index.m3u8
+#EXTINF:-1 tvg-ID="2-11" tvg-name="Bolivia TV 7.2 HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/BOLIVIA_TV.png" group-title="Bolivia",Bolivia TV 7.2 HD
+http://23.237.202.102:7283/HY-1361/index.m3u8
+#EXTINF:-1 tvg-ID="2-12" tvg-name="Bolivision HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/BOLIVISIÓN.png" group-title="Bolivia",Bolivision HD
+http://23.237.202.102:7283/HY-1362/index.m3u8
+#EXTINF:-1 tvg-ID="2-13" tvg-name="Cadena A BO HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/Cadena A BO HD.png" group-title="Bolivia",Cadena A BO HD
+http://23.237.202.102:7283/Cadena-A-BO-HD/index.m3u8
+#EXTINF:-1 tvg-ID="2-14" tvg-name="GIGAVISION" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/GIGAVISION.jpeg" group-title="Bolivia",GIGAVISION
+http://23.237.202.102:7283/GIGAVISION/index.m3u8
+#EXTINF:-1 tvg-ID="2-15" tvg-name="PAT BO HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/PAT BO HD.png" group-title="Bolivia",PAT BO HD
+http://23.237.202.102:7283/PAT-BO-HD/index.m3u8
+#EXTINF:-1 tvg-ID="2-16" tvg-name="RTP BO HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/RTP BO HD.png" group-title="Bolivia",RTP BO HD
+http://23.237.202.102:7283/RTP-BO-HD/index.m3u8
+#EXTINF:-1 tvg-ID="2-17" tvg-name="TIGO SPORTS 1 BO HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/tigosports.png" group-title="Bolivia",TIGO SPORTS 1 BO HD
+http://23.237.202.102:7283/TIGO-SPORTS-1-BO-HD/index.m3u8
+#EXTINF:-1 tvg-ID="2-18" tvg-name="TIGO SPORTS 2 HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/TIGO+SPORTS+2+HD.jpeg" group-title="Bolivia",TIGO SPORTS 2 HD
+http://23.237.202.102:7283/TIGO-SPORTS-2-HD/index.m3u8
+#EXTINF:-1 tvg-ID="2-19" tvg-name="TIGO SPORT 3 HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/tigosports.png" group-title="Bolivia",TIGO SPORT 3 HD
+http://23.237.202.102:7283/TIGO-SPORT-3-HD/index.m3u8
+#EXTINF:-1 tvg-ID="2-20" tvg-name="TV Universitaria BO HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/movie-new/TV Universitaria BO HD.jpg" group-title="Bolivia",TV Universitaria BO HD
+http://23.237.202.102:7283/TV-Universitaria-BO-HD/index.m3u8
+#EXTINF:-1 tvg-ID="2-21" tvg-name="Unitel HD" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/UNITEL.png" group-title="Bolivia",Unitel HD
+http://23.237.202.102:7283/HY-1370/index.m3u8
+#EXTINF:-1 tvg-ID="2-22" tvg-name="UNO" tvg-logo="http://d3t5slulbav8io.cloudfront.net/data/png/UNO.png" group-title="Bolivia",UNO
+http://23.237.202.102:7283/HY-1371/index.m3u8
